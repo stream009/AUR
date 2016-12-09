@@ -4,3 +4,6 @@
 [submodule "cpp-netlib"]
 	path = cpp-netlib
 	url = https://aur.archlinux.org/cpp-netlib.git
+[submodule "vi-vim-symlink"]
+	path = vi-vim-symlink
+	url = https://aur.archlinux.org/vi-vim-symlink.git
