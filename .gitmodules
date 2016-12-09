@@ -1,0 +1,6 @@
+[submodule "cower"]
+	path = cower
+	url = https://github.com/falconindy/cower.git
+[submodule "cpp-netlib"]
+	path = cpp-netlib
+	url = https://aur.archlinux.org/cpp-netlib.git
